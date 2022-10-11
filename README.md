@@ -1,5 +1,9 @@
 # GIT IT DONE
 
+## Screenshots
+
+Home Page
+![image](https://user-images.githubusercontent.com/96402809/195172468-44924e4c-a9ec-4699-9107-b8c5f47d9666.png)
 
 ## DESCRIPTION
 
@@ -28,12 +32,6 @@ Users can look through Run Buddy's personal trainers and contact them if they fi
 
 ## Technologies
 HTML, CSS, and JavaScript
-
-
-## Screenshots
-
-Home Page
-![image]()
 
 ## Contributors
 Aniyah Butler
